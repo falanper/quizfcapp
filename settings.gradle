@@ -1,0 +1,2 @@
+rootProject.name = "Jogo dos Times"
+include ':app'

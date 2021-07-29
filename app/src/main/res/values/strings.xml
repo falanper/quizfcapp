@@ -1,0 +1,28 @@
+<resources>
+
+    <!-- Main Activity -->
+    <string name="app_name">Quiz FC</string>
+    <string name="text_view_title">Quiz FC</string>
+    <string name="text_view_ask_name">Por favor, insira seu nome:</string>
+    <string name="edit_text_name">Seu primeiro nome</string>
+    <string name="btn_start_text">Começar</string>
+    <string name="image_view_soccer_ball">Soccer Ball</string>
+    <string name="toast_text_main_activity">Favor inserir seu nome</string>
+
+
+    <!-- Question Activity -->
+    <string name="text_question">Esse é o brazão de qual time?</string>
+    <string name="toast_text_finish">Você terminou o jogo!</string>
+    <string name="btn_answer_check">Verificar Resposta</string>
+    <string name="btn_next_question">Próxima Pergunta</string>
+    <string name="content_description_crest_image">soccer team crest</string>
+    <string name="toast_text_quiz_activity">Questão já respondida</string>
+
+    <!-- Result Activity -->
+    <string name="result_screen_img_soccer_trophy">soccer trophy</string>
+    <string name="text_view_congrats">Fim de jogo,</string>
+    <string name="result_screen_title">FIM</string>
+    <string name="btn_finish">Encerrar</string>
+    <string name="btn_play_again">Jogar de novo</string>
+
+</resources>
