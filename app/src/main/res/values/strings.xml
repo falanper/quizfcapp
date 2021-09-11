@@ -24,5 +24,6 @@
     <string name="result_screen_title">FIM</string>
     <string name="btn_finish">Encerrar</string>
     <string name="btn_play_again">Jogar de novo</string>
+    <string name="splash_content_description">soccer_ball</string>
 
 </resources>

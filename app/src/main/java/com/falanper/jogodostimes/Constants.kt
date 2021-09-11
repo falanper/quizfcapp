@@ -19,7 +19,7 @@ object Constants {
 private fun getSortedArray(): MutableList<Int> {
     val arrayInt = mutableListOf<Int>()
     while (arrayInt.size < 10) {
-        val number = (1..36).random()
+        val number = (1..100).random()
         if (number !in arrayInt) {
             arrayInt.add(number)
         }
